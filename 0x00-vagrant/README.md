@@ -1,0 +1,1 @@
+This project is about how to get comfortable with the basics of Vagrant.
